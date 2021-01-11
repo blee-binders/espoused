@@ -54,6 +54,7 @@ _CommentEnd_
 # {{{ DBLOCK-nodesList
 nodesList="
 _nodeBase_
+py3
 "
 # }}} DBLOCK-nodesList
 ####+END:
