@@ -57,8 +57,8 @@ _CommentEnd_
 ####+BEGIN: bx:dblock:ploneProc:bash:nodesList :types ""
 # {{{ DBLOCK-nodesList
 nodesList="
-_nodeBase_
 oauth2
+_nodeBase_
 "
 # }}} DBLOCK-nodesList
 ####+END:
