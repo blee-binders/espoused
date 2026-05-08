@@ -43,9 +43,13 @@
 ** +
 ** Ctl-Shift-P   extensions: Install Extenstions
 ** TODO Automate batch installation of all desired extensions.
-** Awesome Emacs Keymap :: Search "emacs" choose emacs-mcx
+** Awesome Emacs Keymap :: Search "emacs" choose emacs-mcx -- Yoichiro Tachibana
 ** Org-Mode Extenstions :: Search "org-mode" -- Choose -- Too Tone
+** --- Corporate Tools
 ** Docker Extensions :: Choose Microsoft
+** Gitlens Extensions :: Git Kana
+** PostgreSql :: Microsoft
+** NOTYET, Absorb SharePoint Knowledge Base
 ** -
 * +
 * -B|
